@@ -1,5 +1,5 @@
 ---
-title: "FedLEO: An offloading-assisted decentralized federated learning framework for low earth orbit satellite networks"
+title: "FedLEO: An Offloading-Assisted Decentralized Federated Learning Framework for Low Earth Orbit Satellite Networks"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'First Author'
