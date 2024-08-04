@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'First Author'
 date: 2022-08-11
 venue: 'IEEE/CIC International Conference on Communications in China (ICCC)'
-paperurl: 'https://aprilzhai5.github.io/zhiweizhai.github.io/files/paper2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9880821'
 citation: 'Zhiwei Zhai, Shuai Yu, Fei Zhang, and Xu Chen. (2022). &quot;An on-orbit computation offloading framework for satellite edge computing.&quot; <i>IEEE/CIC International Conference on Communications in China (ICCC)</i>. pages 1062-1067.'
 ---
 
