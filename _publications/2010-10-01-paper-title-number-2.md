@@ -1,5 +1,5 @@
 ---
-title: "Olive branch learning: A topology-aware federated learning framework for space-air-ground integrated network"
+title: "Olive Branch Learning: A Topology-Aware Federated Learning Framework for Space-Air-Ground Integrated Network"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Second Author'
