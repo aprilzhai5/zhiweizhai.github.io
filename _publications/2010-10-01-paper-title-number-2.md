@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Second Author'
 date: 2022-12-12
 venue: 'IEEE Transactions on Wireless Communications'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9982621'
 citation: 'Qingze Fang, Zhiwei Zhai, Shuai Yu, Qiong Wu, Xiaowen Gong, and Xu Chen. (2022). &quot;Olive Branch Learning: A Topology-Aware Federated Learning Framework for Space-Air-Ground Integrated Network.&quot; <i>IEEE Transactions on Wireless Communications</i>. 22(7): 4534-4551.'
 ---
 
