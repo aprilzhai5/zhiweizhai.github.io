@@ -2,6 +2,7 @@
 title: " An on-orbit computation offloading framework for satellite edge computing"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-08-11
 venue: 'IEEE/CIC International Conference on Communications in China (ICCC)'
 paperurl: 'https://aprilzhai5.github.io/zhiweizhai.github.io/files/paper2.pdf'
