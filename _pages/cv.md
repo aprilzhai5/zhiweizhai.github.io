@@ -18,7 +18,7 @@ Education
 Honors and Awards
 ======
 * National Scholarship, Ministry of Education of P. R. China
-* CUHK Vice-Chancellor's PhD Scholarship
+* CUHK Vice-Chancellor's Scholarship
 * Outstanding Graduate of Sun Yat-sen University
 * Outstanding Graduate of Central South University
 * Outstanding Master's Graduation Thesis of Sun Yat-sen University
