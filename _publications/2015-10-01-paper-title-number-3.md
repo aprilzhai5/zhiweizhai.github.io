@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'First Author'
 date: 2023-08-14
 venue: 'IEEE Transactions on Mobile Computing'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10216376'
 citation: 'Zhiwei Zhai, Qiong Wu, Shuai Yu, Rui Li, Fei Zhang, and Xu Chen. (2023). &quot;FedLEO: An Offloading-Assisted Decentralized Federated Learning Framework for Low Earth Orbit Satellite Networks.&quot; <i>IEEE Transactions on Mobile Computing</i>. 23(5), 5260-5279.'
 ---
 
