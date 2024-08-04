@@ -23,7 +23,7 @@ Honors and Awards
 * Outstanding Master's Graduation Thesis of Sun Yat-sen University
 * Meritorious Winner of the 2020 Mathematical Contest in Modeling (MCM)
 * Honorable Mention of the 2019 Interdisciplinary Contest in Modeling (ICM)
-* Provincial Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUM
+* Provincial Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 
 Publications
 ======
