@@ -5,7 +5,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'First Author'
 date: 2024-05-20
 venue: 'IEEE International Conference on Computer Communications (INFOCOM)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/1570937358.pdf'
 citation: 'Zhiwei Zhai, Liekang Zeng, Tao Ouyang, Shuai Yu, Qianyi Huang, and Xu Chen. (2024). &quot;SECO: Multi-Satellite Edge Computing Enabled Wide-Area and Real-Time Earth Observation Missions.&quot; <i>IEEE International Conference on Computer Communications (INFOCOM)</i>.'
 ---
 
